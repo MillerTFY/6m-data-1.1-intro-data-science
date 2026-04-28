@@ -38,6 +38,7 @@ Explain the difference between Data Analytics, Data Science, and Artificial Inte
 **Discussion:**
 
 - "If a CEO says 'I want to build a GPT-4 for my company' but all their data is in paper files, where on the hierarchy are they failing?"
+- "Answer: at Collect"
 - "If we scanned those papers into PDFs, would that be enough to build an AI tomorrow? Or is there still a 'Cleaning' and 'Analysis' step missing?"
 
 **Activity:**
