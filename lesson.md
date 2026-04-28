@@ -24,21 +24,21 @@
 ### 🎯 Learning Objective
 Explain the difference between Data Analytics, Data Science, and Artificial Intelligence.
 
-### Concept Overview (10 min)
+#### Concept Overview (10 min)
 
 **Analogy:** Imagine a kitchen.
 - **Data Analytics** is checking the fridge to see what's left and writing a report on what was eaten (Historical).
 - **Data Science** is using that list to predict what ingredients you'll need for next week's dinner (Predictive).
 - **AI** is a robot chef that sees the fridge is empty and orders the groceries for you (Automated Action).
 
-### 🛠️ Workshop: "The Company Diagnostic" (40 min)
+#### 🛠️ Workshop: "The Company Diagnostic" (40 min)
 
 > **Studying alone?** Work through these questions individually — write your answers down before opening the suggested responses. There are no single right answers; the goal is to practise reasoning through the hierarchy.
 
 **Discussion:**
 
 - "If a CEO says 'I want to build a GPT-4 for my company' but all their data is in paper files, where on the hierarchy are they failing?"
-### Answer: at Collect
+### Answer: At Collect. Still in paper. 
 - "If we scanned those papers into PDFs, would that be enough to build an AI tomorrow? Or is there still a 'Cleaning' and 'Analysis' step missing?"
 ### Need cleaning and Analysis
 
